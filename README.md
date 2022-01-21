@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/shashank0442/shashank0442.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Shashank Kelkar I am a Test Automation Engineer of over 8 years. I have hands on experience working with mobile and web test automation framework.I have extensively worked on Selenium webdriver , Java, Appium for 5 Years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Selenium logo](https://user-images.githubusercontent.com/19390445/150495040-e458e736-0954-4063-8458-a771c451ece6.jpg)
+![Gradle logo](https://user-images.githubusercontent.com/19390445/150495054-a9f870fd-7963-49b8-aee5-84feb02fd90a.png)
+![Jira logo](https://user-images.githubusercontent.com/19390445/150495059-2069840c-5d47-4777-874e-83ecf41e9064.jpg)
+![Git_logo](https://user-images.githubusercontent.com/19390445/150495065-787216ea-311f-4b9d-b1a3-3abb5c7b87c9.jpg)
+![Appium logo](https://user-images.githubusercontent.com/19390445/150495068-75f4b512-0873-4d70-81bd-e7c45738a893.png)
+![Java logo](https://user-images.githubusercontent.com/19390445/150495069-918113d2-b551-4d96-a987-5c33cb9a9d4f.jpeg)
 
 ```markdown
 Syntax highlighted code block
