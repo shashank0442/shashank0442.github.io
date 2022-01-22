@@ -1,4 +1,5 @@
 title: Shashank Kelkar
+logo: /assets/img/logo.png
 description: Test Automation Consultant
 <br>
 <br>
@@ -7,4 +8,6 @@ description: Test Automation Consultant
 <a href="https://www.linkedin.com/in/shashank-kelkar-28164a34">LinkedIn Profile </a>
 <br>
 <a href="https://github.com/shashank0442">GitHub</a>
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
