@@ -8,10 +8,10 @@ My name is Shashank Kelkar I am a Test Automation Engineer of over 8+ years. I h
   <img src="https://user-images.githubusercontent.com/19390445/150496349-e2c25f00-50b7-4218-9336-040592140ede.png" alt="Appium" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/19390445/150495069-918113d2-b551-4d96-a987-5c33cb9a9d4f.jpeg" alt="Java" width="60" height="60"/>&nbsp;
   <img src='https://user-images.githubusercontent.com/19390445/150495054-a9f870fd-7963-49b8-aee5-84feb02fd90a.png' alt="Gradle" width="60" height="60">&nbsp;
-  <img src='https://user-images.githubusercontent.com/19390445/150495059-2069840c-5d47-4777-874e-83ecf41e9064.jpg' alt="Jira" height='60' width='60' >&nbsp;
-  <img src='https://user-images.githubusercontent.com/19390445/210491352-c51dd618-0949-4e5f-b745-37f2ac980454.jpg' alt="Jira" height='60' width='100' >&nbsp;
+  <img src='https://user-images.githubusercontent.com/19390445/150495059-2069840c-5d47-4777-874e-83ecf41e9064.jpg' alt="Jira" height='60' width='60' >&nbsp;  
   <img src='https://user-images.githubusercontent.com/19390445/210491768-f80f4ebe-dacb-4617-b050-aa95200aac82.png' alt="Jira" height='60' width='60' >&nbsp;
-  <img src="https://user-images.githubusercontent.com/19390445/150495065-787216ea-311f-4b9d-b1a3-3abb5c7b87c9.jpg" alt="GitHub" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/19390445/150495065-787216ea-311f-4b9d-b1a3-3abb5c7b87c9.jpg" alt="GitHub" width="60" height="60"/>&nbsp;
+  <img src='https://user-images.githubusercontent.com/19390445/210491352-c51dd618-0949-4e5f-b745-37f2ac980454.jpg' alt="Jira" height='60' width='100' >
 </p>
 
 ### Career Summary
