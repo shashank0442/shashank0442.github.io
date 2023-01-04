@@ -1,6 +1,6 @@
 ## Portfolio
 
-My name is Shashank Kelkar I am a Test Automation Engineer of over 8 years. I have hands on experience working with mobile and web test automation framework.I have extensively worked on Selenium webdriver , Java, Appium for 5 Years.
+My name is Shashank Kelkar I am a Test Automation Engineer of over 8+ years. I have hands on experience working with mobile and web test automation framework.I have extensively worked on Selenium webdriver , Java, Appium for 5 Years.
 
 ### Skills
 <p align='center'>
@@ -14,7 +14,7 @@ My name is Shashank Kelkar I am a Test Automation Engineer of over 8 years. I ha
 
 ### Career Summary
 ```markdown Career Summary
-	7.9 years of rich work experience in automation and manual software testing.
+	8+ years of rich work experience in automation and manual software testing.
 	Strong experience in automating web and mobile application testing using Selenium WebDriver, Cucumber, Java, Appium, Junit, Maven and Jenkins.
 	Well versed with handling elements for websites, iOS and Android Platforms.
 	Writing test cases using element locators, webdriver methods, java programming features and prioritise test cases using Test NG Annotations.
