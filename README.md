@@ -1,8 +1,28 @@
-## Portfolio
+##  🚀  Portfolio
 
-My name is Shashank Kelkar I am a Test Automation Engineer of over 8+ years. I have hands on experience working with mobile and web test automation framework.I have extensively worked on Selenium webdriver , Java, Appium for 5 Years.
+My name is Shashank Kelkar. I am a Test Automation Engineer of over 9+ years. I have hands on experience working with mobile ,web and API test automation framework.I have extensively worked on Selenium webdriver , Java, Appium for 5 Years.
+
+### Career Summary
+
+* 9+ years of rich work experience in automation and manual software testing.
+*	Strong experience in automating web and mobile application testing using Selenium WebDriver, Cucumber, Java, Appium, Junit, Maven and Jenkins.
+*	Well versed with handling elements for websites, iOS and Android Platforms.
+*	Writing test cases using element locators, webdriver methods, java programming features and prioritise test cases using Test NG Annotations.
+*	Experience in data driven testing, cross browser testing and parallel test execution using Selenium webdriver, page object model.
+*	Strong knowledge of STLC and SDLC with designing, developing and implementing test Scenarios and test cases.
+*	Experience in various types of testing – Functional, Regression, Client-server based, Web based in environments like Mac, Windows 10, Mobile testing.
+*	Strong communication skills with an ability to grasp new things quickly.
+*	Good team player with strong interpersonal skills.
+*	Onsite experience: Worked at client locations in UK to perform UAT, SIT, Compatibility testing, functionality test, and data driven test for National Grid, UK.
 
 ### Skills
+|**_Area_**|**_Skills_**|
+|------------|----------------------------------------------------------------------------------------------------------------------------------|
+|_Software Testing_ |_Mobile and Web Automation , Manual, Mobile testing, Integration, System, Regression, Compatibility, Migration Testing, API testing_|
+|_Domains_|_Insurance, Medical & Healthcare, Benefits, Banking, Manufacturing-Utility_|
+|_Tools & Language_|_Selenium Web Driver, Java, Cucumber, Maven, Appium, GIT, TestNG, Eclipse, RQM, RTC, Jira, Test Rail, MS office, Slack, Confluence, Gradle, Katalon Studio, Charles Proxy, Epic WorkSpace, Perfecto, Rest Assured_|
+|_Methodologies_|_Agile Methodologies (Scrum), Waterfall_|
+
 <p align='center'>
   <img src="https://user-images.githubusercontent.com/19390445/150495040-e458e736-0954-4063-8458-a771c451ece6.jpg" alt="Selenium" width="60" height="60">&nbsp;
   <img src="https://user-images.githubusercontent.com/19390445/150496349-e2c25f00-50b7-4218-9336-040592140ede.png" alt="Appium" width="60" height="60"/>&nbsp;
@@ -13,21 +33,6 @@ My name is Shashank Kelkar I am a Test Automation Engineer of over 8+ years. I h
   <img src="https://user-images.githubusercontent.com/19390445/150495065-787216ea-311f-4b9d-b1a3-3abb5c7b87c9.jpg" alt="GitHub" width="60" height="60"/>&nbsp;
   <img src='https://user-images.githubusercontent.com/19390445/210491352-c51dd618-0949-4e5f-b745-37f2ac980454.jpg' alt="Katalon Studio" height='60' width='100' >
 </p>
-
-### Career Summary
-```markdown Career Summary
-	8+ years of rich work experience in automation and manual software testing.
-	Strong experience in automating web and mobile application testing using Selenium WebDriver, Cucumber, Java, Appium, Junit, Maven and Jenkins.
-	Well versed with handling elements for websites, iOS and Android Platforms.
-	Writing test cases using element locators, webdriver methods, java programming features and prioritise test cases using Test NG Annotations.
-	Experience in data driven testing, cross browser testing and parallel test execution using Selenium webdriver, page object model.
-	Strong knowledge of STLC and SDLC with designing, developing and implementing test Scenarios and test cases.
-	Experience in various types of testing – Functional, Regression, Client-server based, Web based in environments like Mac, Windows 10, Mobile testing.
-	Strong communication skills with an ability to grasp new things quickly.
-	Good team player with strong interpersonal skills.
-	Onsite experience: Worked at client locations in UK to perform UAT, SIT, Compatibility testing, functionality test, and data driven test for National Grid, UK.
-
-```
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
